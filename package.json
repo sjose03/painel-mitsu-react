@@ -15,7 +15,7 @@
     "@types/react-dom": "^17.0.1",
     "@types/react-router-dom": "^5.1.7",
     "antd": "^4.12.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cep-promise": "^3.0.9",
     "chart.js": "^2.9.3",
     "chartjs": "^0.3.24",
